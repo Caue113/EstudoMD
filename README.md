@@ -11,7 +11,9 @@
 
 
 ### <a id="antes"> Antes de Nada </a>
-Esse documento tem propósito apenas de estudo pessoal de forma simplificada em questão de organização, conhecimento do markdown e suas limitações, disponibilizado em pt-br. Se necessário de ajuda, utilize o <a href="https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"> documento oficial do GitHub sobre formatação em markdown </a> para qualquer consulta completa. 
+Esse documento tem propósito apenas de estudo pessoal de forma simplificada em questão de organização, conhecimento do markdown e suas limitações, disponibilizado em pt-br. Haverão algumas tags em HTML no texto-fonte, mas servem apenas para formular uma interface mais agradável e condutiva.
+
+Se necessário de ajuda, utilize o <a href="https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"> documento oficial do GitHub sobre formatação em markdown </a> para qualquer consulta completa. 
 
 ### <a id="titulo"> Cabeçalhos/Títulos </a>
 
@@ -28,8 +30,12 @@ Esse documento tem propósito apenas de estudo pessoal de forma simplificada em 
 
 A inserção de imagens se dá utilizando " !\[alt_imagem\](link_imagem) ". Onde \[alt_imagem\] disponibiliza um texto caso a imagem não esteja disponível, e (link_imagem) é o endereço da internet ou relativo que a imagem se encontra.
 
-Exemplo:  !\[site_github](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
+Exemplo:
 
-Resultado: ![site_github](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
+!\[site_github](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
+
+Resultado:
+
+![site_github](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
  
 
