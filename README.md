@@ -2,7 +2,7 @@
 ## Testes de estudo relativo a markdown
 
 ### Sumario
-- <a href=""> Antes de nada </a>
+- <a href="#antes"> Antes de nada </a>
 - <a href="#titulo"> Cabeçalhos/Títulos  </a>
 - <a href="#texto"> Formatando Textos </a>
 - <a href="#imagem"> Inserindo Imagens </a>
@@ -100,5 +100,12 @@ Resultado:
 
 
 ### <a id="emoji"> Inserindo Emojis </a>
+
+Emojis podem ser inseridos usando a formatação " :\[nome_do_emoji]: ". Para saber todos os diferentes emojis disponíveis, acesse a <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md"> Página de Emojis </a>
+
+Exemplo:
+
+Like : +1 : ---->  :+1:   
+
  
 
