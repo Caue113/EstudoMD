@@ -85,17 +85,17 @@ A separação de linhas é simplesmente pulando a linha após inserir todos os c
 
 Exemplo:
 
-\| Coluna 1 | Coluna 2 |
-\|----------|----------|
-\| Linha 1-1| Linha 2-2|
-\| Linha 2-1| Linha 2-2|
+\| Coluna 1 | Coluna 2 | <br/>
+\|------------|------------| <br/> <!-- Erro visual na página, "-" extras para compensar -->
+\| Linha 1,1| Linha 1,2| <br/>
+\| Linha 2,1| Linha 2,2| <br/>
 
 Resultado:
 
 | Coluna 1 | Coluna 2 |
 |----------|----------|
-| Linha 1-1| Linha 2-2|
-| Linha 2-1| Linha 2-2|
+| Linha 1,1| Linha 1,2|
+| Linha 2,1| Linha 2,2|
 
 
 
