@@ -6,9 +6,9 @@
 - <a href="#titulo"> Cabeçalhos/Títulos  </a>
 - <a href="#texto"> Formatando Textos </a>
 - <a href="#imagem"> Inserindo Imagens </a>
-- <a href="#"> Inserindo Listas </a>
-- <a href="#"> Inserindo Tabelas </a>
-- <a href="#"> Inserindo Listas </a>
+- <a href="#lista"> Inserindo Listas </a>
+- <a href="#tabela"> Inserindo Tabelas </a>
+- <a href="#emoji"> Inserindo Emojis </a>
 
 
 ### <a id="antes"> Antes de Nada </a>
@@ -38,7 +38,7 @@ Resultado:
 
 ![site_github](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
 
-### <a id=""> Inserindo Listas </a>
+### <a id="lista"> Inserindo Listas </a>
 
 #### Listas não numeradas
 
@@ -75,7 +75,7 @@ Ordem de Chegada dos Convidados
  2. Maria
  3. José
 
-### <a id=""> Inserindo Tabelas </a>
+### <a id="tabela"> Inserindo Tabelas </a>
 
 Tabelas permitem uma visualização organizada em linhas e colunas.
 
@@ -86,7 +86,7 @@ A separação de linhas é simplesmente pulando a linha após inserir todos os c
 Exemplo:
 
 \| Coluna 1 | Coluna 2 | <br/>
-\|------------|------------| <br/> <!-- Erro visual na página, "-" extras para compensar -->
+\|-----------|-----------| <br/> <!-- Erro visual na página, "-" extras para compensar -->
 \| Linha 1,1| Linha 1,2| <br/>
 \| Linha 2,1| Linha 2,2| <br/>
 
@@ -99,6 +99,6 @@ Resultado:
 
 
 
-### <a id=""> Inserindo Emojis </a>
+### <a id="emoji"> Inserindo Emojis </a>
  
 
