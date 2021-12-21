@@ -8,6 +8,7 @@
 - <a href="#imagem"> Inserindo Imagens </a>
 - <a href="#"> Inserindo Listas </a>
 - <a href="#"> Inserindo Tabelas </a>
+- <a href="#"> Inserindo Listas </a>
 
 
 ### <a id="antes"> Antes de Nada </a>
@@ -23,7 +24,6 @@ Se necessário de ajuda, utilize o <a href="https://docs.github.com/en/github/wr
 - *italico*, utilizando \*[texto]\* OU \_[texto]\_
 - **negrito**, utilizando \*\*[texto]\*\* OU \_\_[texto]\_\_
 - ***italico & negrito***, utilizando \*\*\*[texto]\*\*\* OU \_\_\_[texto]\_\_\_
-- Sublinhado, utilizando [texto]
 - ~~"Strike Through"~~, utilizando \~\~[texto]\~\~
 
 ### <a id="imagem"> Inserindo Imagens </a>
@@ -37,5 +37,68 @@ Exemplo:
 Resultado:
 
 ![site_github](https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg)
+
+### <a id=""> Inserindo Listas </a>
+
+#### Listas não numeradas
+
+Listas não numeradas podem ser inseridas usando " * " ou " - " antes de cada opção.
+
+Exemplo:
+<br/>
+Nomes dos convidados
+
+\- João 
+<br/>
+\- Maria 
+<br/>
+\- José 
+<br/>
+
+Resultado:
+<br/>
+Nomes dos convidados
+
+ - João
+ - Maria
+ - José
+
+#### Listas numeradas
+
+Listas numeradas devem incluir um número antes para indicar a posição de uma opção.
+
+Exemplo:
+<br/>
+Ordem de Chegada dos Convidados
+
+ 1. João
+ 2. Maria
+ 3. José
+
+### <a id=""> Inserindo Tabelas </a>
+
+Tabelas permitem uma visualização organizada em linhas e colunas.
+
+A separação de colunas utiliza " | " entre os conteúdos.
+
+A separação de linhas é simplesmente pulando a linha após inserir todos os conteúdos, com excessão do nome da coluna, no qual utiliza-se " - " para separar o título da coluna do restante das linhas.
+
+Exemplo:
+
+\| Coluna 1 | Coluna 2 |
+\|----------|----------|
+\| Linha 1-1| Linha 2-2|
+\| Linha 2-1| Linha 2-2|
+
+Resultado:
+
+| Coluna 1 | Coluna 2 |
+|----------|----------|
+| Linha 1-1| Linha 2-2|
+| Linha 2-1| Linha 2-2|
+
+
+
+### <a id=""> Inserindo Emojis </a>
  
 
