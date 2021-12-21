@@ -28,7 +28,7 @@ Se necessário de ajuda, utilize o <a href="https://docs.github.com/en/github/wr
 
 ### <a id="imagem"> Inserindo Imagens </a>
 
-A inserção de imagens se dá utilizando " !\[alt_imagem\](link_imagem) ". Onde \[alt_imagem\] disponibiliza um texto caso a imagem não esteja disponível, e (link_imagem) é o endereço da internet ou relativo que a imagem se encontra.
+A inserção de imagens se dá utilizando " !\[alt_imagem\](link_imagem) ". Onde \[alt_imagem\] disponibiliza um texto caso a imagem não esteja disponível, e (link_imagem) é o endereço da internet ou  o endereço relativo que a imagem se encontra.
 
 Exemplo:
 
